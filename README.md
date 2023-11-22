@@ -3,11 +3,11 @@
 # about
 The contract is about financial inclusion. 
 
-#functionality
+# functionality
 
 The users can vote to allocate funds for various charitable causes.
 
-#benefits
+# benefits
 
 Contract ensures transparency and fairness when funds are being allocated.
 
