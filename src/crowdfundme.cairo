@@ -17,13 +17,4 @@ mod CrowdfundmeContract {
         total_amount_raised: u128,
         total_contributors: u32,
     }
-    #[event]
-    #[derive(Drop, starknet::Event)]
-    struct FundingRequest {
-        amount: u128,
-        description: String,
-        approval_count: u32,
-        disapproval_count: u32,
-        is_complete: bool,
-    }
 }
